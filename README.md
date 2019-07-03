@@ -1,5 +1,5 @@
 # LeetCode Solutions with Python3
-Update time:  2019-07-02 21:58 <br>
+Update time:  2019-07-03 11:45 <br>
 Record: <br>
 
 | # | Title | Source Code | Article | Difficulty | Finish Date |
