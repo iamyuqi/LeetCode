@@ -16,6 +16,16 @@
 #Explanation: The answer is "wke", with the length of 3.
              #Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 
-
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        if len(s) <= 1:
+            return len(s)
+        tmp = s[0]
+        l = []
+        for char in s[1:]:
+            if char in tmp:
+                i = tmp.find(char)
+                tmp = tmp[i+1:]
+            tmp += char
+            l.append(len(tmp))
+        return max(l)
