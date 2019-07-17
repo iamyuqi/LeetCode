@@ -15,9 +15,3 @@ class Solution:
                 index = [i, ind]
                 break
         return index
-
-t = Solution()
-t.twoSum([3,3], 6)
-
-
-
