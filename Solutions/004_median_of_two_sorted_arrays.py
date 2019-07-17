@@ -19,3 +19,12 @@
 
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        s = sorted(nums1 + nums2)
+        l = len(s)
+        if l == 1:
+            m = s[0]
+        elif l % 2 == 1:
+            m = s[int(l/2-0.5)]
+        else:
+            m = (s[int(l/2)-1]+s[int(l/2)])/2
+        return float(m)
