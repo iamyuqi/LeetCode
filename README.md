@@ -1,6 +1,7 @@
 # LeetCode Solutions with Python3
 Update time:  2019-07-17 11:21 <br>
-Record: <br>
+
+Algorithms: <br>
 
 | # | Title | Source Code | Article | Difficulty | Finish Date |
 |:---:|:---:|:---:|:---:|:---:|:---:|
