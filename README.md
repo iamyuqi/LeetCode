@@ -1,4 +1,4 @@
-# LeetCode Solutions with Python3
+# LeetCode Solutions with Python3 & MySQL
 Update time:  2019-07-17 11:21 <br>
 
 Algorithms: <br>
@@ -19,9 +19,9 @@ Database: <br>
 |2|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[txt](https://github.com/iamyuqi/LeetCode/blob/master/Database/176_second_highest_salary)|[:bookmark_tabs:](https://leetcode.com/articles/second-highest-salary/)|Easy|July 3, 2019
 |3|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[txt](https://github.com/iamyuqi/LeetCode/blob/master/Database/177_nth_highest_salary)|[:bookmark_tabs:]()|Medium|July 3, 2019
 |4|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[txt](https://github.com/iamyuqi/LeetCode/blob/master/Database/178_rank_scores)|[:bookmark_tabs:]()|Medium|July 8, 2019
-|5|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[txt](https://github.com/iamyuqi/LeetCode/blob/master/Database/180_consecutive_numbers)|[:bookmark_tabs:](https://leetcode.com/articles/consecutive-numbers/)|Medium|July 11, 2019
+|5|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[txt](https://github.com/iamyuqi/LeetCode/blob/master/Database/180_consecutive_numbers)|[:bookmark_tabs:](https://leetcode.com/articles/consecutive-numbers/)|Medium|July 9, 2019
 |6|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[txt](https://github.com/iamyuqi/LeetCode/blob/master/Database/181_employees_earning_more_than_their_managers)|[:bookmark_tabs:](https://leetcode.com/articles/employees-earning-more-than-their-managers/)|Easy|July 11, 2019
 |7|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[txt](https://github.com/iamyuqi/LeetCode/blob/master/Database/182_duplicate_emails)|[:bookmark_tabs:](https://leetcode.com/articles/duplicate-emails/)|Easy|July 11, 2019
 |8|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[txt](https://github.com/iamyuqi/LeetCode/blob/master/Database/183_customers_who_never_order)|[:bookmark_tabs:](https://leetcode.com/articles/customers-who-never-order/)|Easy|July 12, 2019
-|9|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[txt](https://github.com/iamyuqi/LeetCode/blob/master/Database/184_department_highest_salary)|[:bookmark_tabs:](https://leetcode.com/articles/department-highest-salary/)|Medium|July 13, 2019
+|9|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[txt](https://github.com/iamyuqi/LeetCode/blob/master/Database/184_department_highest_salary)|[:bookmark_tabs:](https://leetcode.com/articles/department-highest-salary/)|Medium|July 16, 2019
 
